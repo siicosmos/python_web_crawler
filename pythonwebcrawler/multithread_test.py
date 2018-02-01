@@ -1,4 +1,6 @@
-#coding:utf-8
+# this code is not written by me
+# coding:utf-8
+
 import threading, queue
 from pythonwebcrawler import html_parser, html_output, html_downloader
 import time
